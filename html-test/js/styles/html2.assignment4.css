@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(197, 194, 150);
+}
+
+button{
+    background-color: antiquewhite;
+}
+div{
+    background-color: rgb(168, 223, 223);
+}
+span{
+    background-color: antiquewhite;
+}
+p{
+    background-color: azure;
+}
+input{
+    background-color: rgb(178, 212, 212);
+}
+cite{
+    background-color: rgb(197, 226, 226);
+}
+code{
+    background-color: rgb(172, 160, 147);
+}
+h1{
+    background-color: gainsboro;
+}
+sup{
+    background-color: rgb(148, 185, 185);
+}
+sub{
+    background-color: rgb(129, 129, 82);
+}

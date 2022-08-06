@@ -1,0 +1,46 @@
+video{
+    width: 350px;
+    height: 320px;
+}
+a:hover{
+    color: rgb(177, 220, 20);
+}
+span{
+    color: blueviolet;
+}
+
+.navbar{
+    display: inline-block;
+    background-color: blanchedalmond;
+    width: 100%;
+}
+.navbar ul{
+    text-align: center;
+    list-style: none;
+    padding: 0%;
+}
+.navbar ul > li{
+    display: inline-block;
+    margin: 10px;
+}
+h2{
+    display: inline-block;
+    width: 100%;
+    background-color: azure;
+    color: brown;
+    text-align: center;
+}
+
+.text{
+    list-style: none;
+    color: black;
+}
+.order-list{
+    padding: 40px;
+    text-align: center;
+}
+.order-list li{
+    display: inline-block;
+    margin: 20px;
+    padding: 0%;
+}

@@ -1,0 +1,89 @@
+#container{
+    /* border: 1px solid black; */
+    height: auto;
+    width: auto;
+
+}
+#movie{
+    width: 100%;
+    height: auto;
+    background-color: beige;
+    text-align: center;
+    display:inline-block;
+}
+#color{
+    color: crimson;
+}
+#nav-bar{
+    background-color: antiquewhite;
+    list-style-type: none;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    color: rgb(117, 90, 142);
+}
+
+#summary{
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+    /* margin-top: 10px; */
+    background-color: azure;
+}
+.mainsection{
+    /* box-sizing: border-box;
+    /* border: 1px solid black; */
+    /* background-color: rgb(242, 234, 234); */
+     height: 300px ;
+     /* margin: 10px; */
+     display: inline-block;
+     width: 100%;
+      text-align: center;
+} 
+ #actor{
+    height: 260px;
+    width: 28% ;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    background-color: cornsilk;
+}
+#quotes{
+     height: 260px;
+    width: 28% ;
+    /* box-sizing: border-box; */
+    /* border: 1px solid black; */
+   margin: 10px;
+   float: left;
+   text-align: center;
+   background-color: cornsilk;
+
+}
+#information{
+    height: 260px;
+    width: 35% ;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+   margin: 10px;
+   float: left;
+   text-align: center;
+   background-color: rgb(220, 195, 185);
+   
+}
+#format{
+    width: 100%;
+    height: auto;
+    background-color: rgb(233, 233, 197);
+     display: inline-block;
+    text-align: center;
+}
+#s{
+    color: blue;
+}

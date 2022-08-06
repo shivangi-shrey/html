@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(204, 240, 240);
+}
+
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    text-align: center;
+    color: crimson;
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+li{
+    margin: 10px;
+
+}
+a:hover{
+    color: darkorange;
+}

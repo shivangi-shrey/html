@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+blockquote{
+    border-left: 10px solid darkgreen;
+    height: 50px;
+    margin-top: 20px;
+    background-color: rgb(223, 245, 245);
+    padding: 15px;
+    max-width: 600px;
+}
+img{
+    width: 100px;
+    width: 100px;
+    margin-left: 60px;
+}
+.ans{
+    padding-left: 50px;
+}

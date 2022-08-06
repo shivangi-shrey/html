@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(206, 198, 186);
+    font-size: 18px;
+}
+#main-container{
+    /* background-color: rgb(67, 165, 67); */
+    width: 100%;
+    height: auto;
+    padding: 15px 30px 15px 30px ;
+    box-sizing: border-box;
+}
+
+#main-container.row{
+    width: 100%;
+    height: auto;
+     height: 45vh; 
+}
+
+#main-container.row:last-child{
+    margin-top: 15px;
+}
+#main-container.row.col{
+    width: 49%;
+     height: 100%; 
+    background-color: rgb(236, 12, 191);
+    float: left;
+    border: 1px solid #cccc;
+    box-sizing: border-box;
+}
+
+#header-container{
+    position: relative;
+}
+
+#header-container > h1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+    height: 100%;
+}
+
+#main-container.row.col img{
+    width:100%;
+    height: 100%;
+} 

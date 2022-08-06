@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+ width: 100%;
+ height: 400px;
+ flex-direction: row;
+ /* background-color: antiquewhite; */
+ /* border: 1px solid green; */
+}
+.it{
+    width: 200pxpx;
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+img{
+    height: 100px;
+    width: 200px;
+}

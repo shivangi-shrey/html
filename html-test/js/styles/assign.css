@@ -1,0 +1,79 @@
+ body{
+    background:rgb(245, 238, 238) ;
+}
+#container{
+    width: 100%;
+    height:auto;
+    background-color: rgb(245, 238, 238);
+    box-sizing: border-box;
+    
+}
+.card{
+    width: 90%;
+    height: auto;
+    background-color: rgb(255, 249, 249);
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+#first-container{
+    width: 50%;
+    height:450px;
+    background-color: rgb(98, 235, 98) ;
+    margin-left: 40px;
+}
+img{
+    width:110%;
+    height: 420px;
+    margin-left: -20px;
+    margin-top:-30px ;
+    box-shadow: 20px 20px 20px 20px solid black;
+} 
+#second-container{
+    width: 50%;
+    height: auto ;
+    margin-left: 70px ;
+    background-color: white;
+    margin-top: 40px ;    
+  
+}
+a.primary-button{
+    background-color: rgb(98, 235, 98);
+    margin-top: 60px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    border: 1px solid rgb(98, 235, 98);
+    color: white;
+    padding: 8px 20px;
+    display: inline-block;
+}
+.content-container{
+    width: 90%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+#third-container{
+    width: 50%;
+    height:450px;
+    background-color: rgb(98, 235, 98) ;
+    margin-left: 40px;
+}
+.grass img{
+    width:110%;
+    height: 400px;
+    margin-left: -30px;
+    margin-top:30px ;
+    margin-bottom: -100px;
+}
+#forth-container{
+    width: 50%;
+    height: auto ;
+    margin-left: 60px ;
+    background-color: white;
+    margin-top: 40px ;
+}

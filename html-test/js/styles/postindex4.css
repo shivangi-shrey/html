@@ -1,0 +1,8 @@
+#text{
+    color: brown;
+    border: 1px solid black;
+    /* padding-left: 300px; */
+    display: inline-block;
+    background-color: aquamarine;
+    position: absolute;
+}

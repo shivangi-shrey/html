@@ -1,0 +1,56 @@
+#movie{
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+    margin: 10px;
+}
+#summary{
+    background-color: beige;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.mainsection{
+    border: 1px solid black;
+    background-color: blanchedalmond;
+    display: flex;
+    height:350px;
+    flex-wrap: wrap;
+}
+#actor{
+    height: auto;
+    background-color: rgb(156, 199, 199);
+    width: 32%;
+    text-align: center;
+}
+#quotes{
+    height: auto;
+    background-color: azure;
+    width: 32%;
+    text-align: center;
+}
+#information{
+    height: auto;
+   text-align: center;
+   width: 36%;
+}
+#format{
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+
+

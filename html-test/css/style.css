@@ -1,0 +1,35 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+#row1{
+    display: flex;
+    flex-direction: row;
+    height:50%;
+    width: 100%;
+    background-color:rebeccapurple ;
+    
+
+}
+#row2{
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+    width: 100%;
+    background-color:peru ;
+}
+.column{
+    height:50% ;
+    width: 50%;
+    
+}
+#text-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+}

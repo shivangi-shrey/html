@@ -1,0 +1,34 @@
+header{
+    background-color: blue;
+height: 100px;
+width: auto;
+}
+footer{
+    background-color: brown;
+    height: 100px;
+    width: auto;
+}
+.rightbar{
+    background-color: aqua;
+    height: 400px;
+    width: 100px;
+    float: right;
+    margin-top: 20px;
+}
+.leftbar{
+    background-color: darkolivegreen;
+    height: 400px;
+    width: 100px;
+    margin-bottom:10px;
+}
+.middlebar{
+    border: 2px;
+    background-color: deeppink;
+    height: 400px;
+    width: 1070px;
+    margin-bottom: -400px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+

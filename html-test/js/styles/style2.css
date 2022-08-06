@@ -1,0 +1,13 @@
+table,td {
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+video{
+    width: 300px;
+}
